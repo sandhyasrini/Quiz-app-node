@@ -1,6 +1,6 @@
 # Quiz-app-node
 
-A Node.js built app using [Express 4](http://expressjs.com/).
+A Node.js app built using [Express 4](http://expressjs.com/).
 
 ## To run the app locally
 
